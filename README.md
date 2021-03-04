@@ -22,6 +22,8 @@ Jam enhavas 16 enigmojn en la `puzzles` dosierujo. Se vi volas krei novajn,
 faru fonan bildon de `puzzle.psd` kaj aldonu la poziciojn de literoj en
 `puzzles.json`.
 
+Enrete per GitHub Pages: [tboronczyk.github.io/pendumilo/src](https://tboronczyk.github.io/pendumilo/src)
+
 Por servi la kodon loke, instalu [Docker](https://docker.com/) kaj rulu
 `docker-compose up`.
 
@@ -49,5 +51,7 @@ There are 16 puzzles in the `puzzles` folder. If you want to create new puzzles,
 make a base image using `puzzle.psd` and add the letter positions to
 `puzzles.json`.
 
-To serve the code locallay, install [Docker](https://docker.com) and execute
+Online via GitHub Pages: [tboronczyk.github.io/pendumilo/src](https://tboronczyk.github.io/pendumilo/src)
+
+To serve the code locally, install [Docker](https://docker.com) and execute
 `docker-composer up`.
