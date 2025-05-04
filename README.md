@@ -14,9 +14,8 @@ respondecas premi la klavojn por regi la ludon.
   * spacoklavo - rotaciigi la radon aŭ forigi la radon
   * `X` - montri ĉiujn literojn (solvi la enigmon)
   * `A`...`Z` - montri elektitan literon
-
-La ludestro ankaŭ kalkulu monsumojn/poentojn - por tio, uzu paperon kaj
-plumon :)
+  * `1` - antaŭenigi vicon al la sekva ludanto malaŭtomate
+  * `Q` - montri inter rondaj kaj sumaj poentoj
 
 Jam enhavas 16 enigmojn en la `puzzles` dosierujo. Se vi volas krei novajn,
 faru fonan bildon de `puzzle.psd` kaj aldonu la poziciojn de literoj en
@@ -44,8 +43,8 @@ drives gameplay by pressing various keyboard buttons.
   * spacebar - spin the wheel or dismiss the wheel
   * `X` - reveal all letters (solve the puzzle)
   * `A`...`Z` - select/show a letter
-
-The emcee is also responsible for keeping score (using paper and pencil) :)
+  * `1` - manually advance to next player
+  * `Q` - toggle between round and total score
 
 There are 16 puzzles in the `puzzles` folder. If you want to create new puzzles,
 make a base image using `puzzle.psd` and add the letter positions to
